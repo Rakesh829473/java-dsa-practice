@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class loftn
+public class Loftn
  {
 
     public static void main (String[] args)
